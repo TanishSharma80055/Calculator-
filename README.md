@@ -12,7 +12,7 @@ A clean and responsive calculator built with **HTML, CSS, and JavaScript**.
 
 ## Demo
 
-[Live Demo Link](https://yourusername.github.io/your-repo-name/)
+[Live Demo Link]( https://tanishsharma80055.github.io/Calculator-/)
 
 ## How to Use
 
